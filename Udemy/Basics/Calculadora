@@ -1,0 +1,22 @@
+# valor1 = input('Dame un numero')
+# valor2 = input('Dame ootro numero')
+
+# numero1 = int(valor1)
+# numero2 = int(valor2)
+# total = numero1 + numero2
+# print ('La suma es ' + str(total))
+# es mas eficiente
+
+#   valor1 = int(input('Dame un numero '))
+#   valor2 = int(input('Dame otro numero '))
+#   total = valor2 + valor1
+#   print('La suma es ' + str(total))
+
+try:
+    valor1 = int(input('Dame un numero '))
+    valor2 = int(input('Dame otro numero '))
+except ValueError:
+    print('Ese no es un numero')
+else:
+    total = valor2 + valor1
+    print('La suma es ' + str(total))

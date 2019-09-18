@@ -1,0 +1,13 @@
+
+
+def verificar_entrada(edad):
+    if edad < 18:
+        print("No puedes entrar")
+    elif edad == 21:
+        print("Puedes entrar y beber")
+    else:
+        print("Puedes entrar pero no beber")
+edad = 21
+edad_2 = 10
+verificar_entrada(edad_2)
+
