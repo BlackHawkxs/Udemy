@@ -7,11 +7,11 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="lista2" type="Python" />
       <mapping pattern="image" type="Python" />
       <mapping pattern="Lista" type="Python" />
       <mapping pattern="loop" type="Python" />
       <mapping pattern="Calculadora" type="Python" />
-      <mapping pattern="lista2" type="Python" />
       <mapping pattern="Prueba" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
